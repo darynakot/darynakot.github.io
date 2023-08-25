@@ -16,9 +16,9 @@ jobs:
           message-success: |
             **What to do after deployment to PDN**
             1. Update the **Release Document**
-            2. Add 3rd party tools to the **External Tools* list
-            3. Add new APIs to **Swagger*
-            4. Set the status=done for related tickets in Jira
+            2. Add 3rd party tools to the **External Tools** list
+            3. Add new APIs to **Swagger**
+            4. Set the `status=done` for related tickets in Jira
           reactions: |
             heart
             hooray
