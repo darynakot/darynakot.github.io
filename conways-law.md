@@ -43,6 +43,7 @@ Conway’s Law posits that smaller teams can be more cohesive and produce better
 
 The change also brought brand and marketing, collections and preservation, experience product and digital, IT &  business systems, infrastructure, and front of house visitor experience staff under Chan’s remit.
 
-![image](https://github.com/darynakot/darynakot.github.io/assets/143038872/3d250e75-2c25-4737-8c8d-5d25a98a25fa)
+![Screenshot_35](https://github.com/darynakot/darynakot.github.io/assets/143038872/943c73bd-301e-42f5-8b4f-4e31641a1cac)
+
 
 [Source](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)
