@@ -1,5 +1,6 @@
 ---
 title: Project Management
+description: The list of the basic project management rules
 ---
 
 This is the first page
