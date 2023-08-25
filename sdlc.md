@@ -1,8 +1,9 @@
 ---
 layout: default
 title: SDLC
-description: What is SDLC (Software Development Life Cycle)
+description: What is SDLC (Software Development Life Cycle) 
 ---
+[Home](https://darynakot.github.io/) [Roadmap](https://darynakot.github.io/roadmap.html) [RACI Matrix](https://darynakot.github.io/raci.html) (PM Tools)[https://darynakot.github.io/pmtools.html) (Conway's Law)[https://darynakot.github.io/conways-law.html)
 
 Software Development Life Cycle (SDLC) is a framework that defines the steps involved in the development of software at each phase. It covers the detailed plan for building, deploying and maintaining the software.
 
@@ -21,7 +22,17 @@ Below are the various phases:
 * Deployment
 * Maintenance
 
+<script src="https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js"></script>
 
+<div class="mermaid">
+flowchart LR
+    A(Analysis):::foo --> B(Design):::foo
+    B --> C(Development):::foo
+    C --> D(Testing):::foo
+    D --> E(Deployment):::foo
+    E --> H(Maintenance):::foo
+    classDef foo fill:#fff,stroke:#159957,stroke-width:2px
+</div>
 
 ### Requirement Gathering and Analysis
 During this phase, all the relevant information is collected from the customer to develop a product as per their expectation. Any ambiguities must be resolved in this phase only.
@@ -49,6 +60,6 @@ After the deployment of a product on the production environment, maintenance of 
 
 
 
-[Source:](https://www.numpyninja.com/post/sdlc-software-development-life-cycle-phases-process-what-is-sdlc)
+[Source](https://www.numpyninja.com/post/sdlc-software-development-life-cycle-phases-process-what-is-sdlc)
 
 
