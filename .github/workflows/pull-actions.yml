@@ -1,4 +1,4 @@
-name: Pull Reqest
+name: Check before go to Production Env
 on:
   pull_request:
       types:
@@ -14,6 +14,14 @@ jobs:
       - uses: mshick/add-pr-comment@v2
         with:
           message: |
-            **Hello**
-            🌏
-            !
+            **Production Deployment Checklist**
+            1. Use automation tools
+            2. Coordinate development and IT
+            3. Understand KPIs
+            4. Have a deployment and rollback plan
+            5. Back up and protect the current build and dependencies
+            6. Provision and deploy
+            7. Communicate to stakeholders
+            8. Connect application monitoring
+            9. Monitor the deployment environment
+          reactions: eyes
