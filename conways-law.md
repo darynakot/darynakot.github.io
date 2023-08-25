@@ -37,7 +37,7 @@ In 2019, when ACMI shut its doors to the public to undertake the building redeve
 The benefit was obvious. 
 >The staff redesigned the organizational chart based on what they felt the new institution would need
 
-says Chan. 
+- says Chan. 
 
 Conway’s Law posits that smaller teams can be more cohesive and produce better results, more quickly. ACMI’s restructure led to a smaller senior executive team, broken down into three major divisions: experience and engagement, curatorial and exhibition programming, and commercial and operations. Together, they made cross-functional collaboration the norm. 
 
