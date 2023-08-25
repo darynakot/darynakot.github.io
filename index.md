@@ -7,7 +7,7 @@ mermaid: true
 This is the first page
 
 ```mermaid
-graph LR
+flowchart LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
