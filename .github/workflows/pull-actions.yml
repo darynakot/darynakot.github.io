@@ -1,0 +1,19 @@
+name: Pull Reqest
+on:
+  pull_request:
+      types:
+      - opened
+      - ready_for_review
+
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: mshick/add-pr-comment@v2
+        with:
+          message: |
+            **Hello**
+            🌏
+            !
