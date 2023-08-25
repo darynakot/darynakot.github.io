@@ -1,6 +1,7 @@
 ---
 title: Project Management
 description: The list of the basic project management rules
+mermaid: true
 ---
 
 This is the first page
