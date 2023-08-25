@@ -1,0 +1,14 @@
+---
+title: Conways Law and Digital Transformation
+---
+
+
+Tldr:
+
+
+* Our current org structures inhibit how we develop software, and therefore how we deliver on business capabilities
+* When teams rely on other teams, or pass requests between each other, this fine-grained communication uses up all the communication bandwidth them. This leads to teams complaining about each others non-delivery.
+* Changing your architecture alone (perhaps from a monolith to microservices, or using APIs or kubernetes) will not be sufficient for transformation, unless you also adapt the org structure
+* Changing the org structure to feature teams, that are self-sufficient, multidisciplinary and cross-functional will lead to better business results.
+* It allows the org structure to match your new architecture. Now these feature teams are fully responsible for the full lifecycle of their app, without relying on other teams
+* The comms bandwidth between teams is now used for course grained conversations better suited to aligning goals and strategies
