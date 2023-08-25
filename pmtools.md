@@ -1,9 +1,8 @@
 ---
-title: Project Management
-description: Click ↓ to check find useful tools
-mermaid: true
+layout: default
+title: Project Management Tools
+description: Most Popular PM Tools in 2023
 ---
-
 <script src="https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
@@ -21,6 +20,3 @@ flowchart LR
     click E "https://darynakot.github.io/pmtools.html" _blank
     click H "https://darynakot.github.io/conways-law.html" _blank
 </div>
-
-
-    

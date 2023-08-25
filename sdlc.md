@@ -1,9 +1,25 @@
 ---
 layout: default
 title: SDLC
-description: What is SDLC (Software Development Life Cycle) 
+description: What is SDLC (Software Development Life Cycle)?
 ---
-[Home](https://darynakot.github.io/) [Roadmap](https://darynakot.github.io/roadmap.html) [RACI Matrix](https://darynakot.github.io/raci.html) (PM Tools)[https://darynakot.github.io/pmtools.html) (Conway's Law)[https://darynakot.github.io/conways-law.html)
+<script src="https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js"></script>
+
+<div class="mermaid">
+flowchart LR
+    A[/Home/]:::foo ~~~ B[/SDLC\]:::foo
+    B ~~~ C[\Roadmap\]:::foo
+    C ~~~ D[\RACI Matrix/]:::foo
+    D ~~~ E[/PM Tools/]:::foo
+    E ~~~ H[/Conway's Law\]:::foo
+    classDef foo fill:#155799, #159957,stroke:#fff,color:#fff
+    click A "https://darynakot.github.io/" _blank
+    click B "https://darynakot.github.io/sdlc.html" _blank
+    click C "https://darynakot.github.io/roadmap.html" _blank
+    click D "https://darynakot.github.io/raci.html" _blank
+    click E "https://darynakot.github.io/pmtools.html" _blank
+    click H "https://darynakot.github.io/conways-law.html" _blank
+</div>
 
 Software Development Life Cycle (SDLC) is a framework that defines the steps involved in the development of software at each phase. It covers the detailed plan for building, deploying and maintaining the software.
 
